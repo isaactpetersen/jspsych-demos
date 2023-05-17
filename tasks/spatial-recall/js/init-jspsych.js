@@ -1,5 +1,6 @@
 // Initialize jsPsych.
 var jsPsych = initJsPsych({
+  show_progress_bar: true,
   on_finish: function() {
 
     // Add interactions to the data variable

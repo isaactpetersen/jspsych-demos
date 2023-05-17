@@ -38,6 +38,15 @@ var recall_forwards = {
     {sequence: jsPsych.randomization.sampleWithoutReplacement([...Array(16).keys()], 2)},
     {sequence: jsPsych.randomization.sampleWithoutReplacement([...Array(16).keys()], 3)},
     {sequence: jsPsych.randomization.sampleWithoutReplacement([...Array(16).keys()], 4)},
+    {sequence: jsPsych.randomization.sampleWithoutReplacement([...Array(16).keys()], 4)},
+    {sequence: jsPsych.randomization.sampleWithoutReplacement([...Array(16).keys()], 5)},
+    {sequence: jsPsych.randomization.sampleWithoutReplacement([...Array(16).keys()], 5)},
+    {sequence: jsPsych.randomization.sampleWithoutReplacement([...Array(16).keys()], 6)},
+    {sequence: jsPsych.randomization.sampleWithoutReplacement([...Array(16).keys()], 6)},
+    {sequence: jsPsych.randomization.sampleWithoutReplacement([...Array(16).keys()], 7)},
+    {sequence: jsPsych.randomization.sampleWithoutReplacement([...Array(16).keys()], 7)},
+    {sequence: jsPsych.randomization.sampleWithoutReplacement([...Array(16).keys()], 8)},
+    {sequence: jsPsych.randomization.sampleWithoutReplacement([...Array(16).keys()], 8)},
   ]
 }
 
@@ -80,5 +89,12 @@ var recall_backwards = {
     {sequence: jsPsych.randomization.sampleWithoutReplacement([...Array(16).keys()], 2)},
     {sequence: jsPsych.randomization.sampleWithoutReplacement([...Array(16).keys()], 3)},
     {sequence: jsPsych.randomization.sampleWithoutReplacement([...Array(16).keys()], 4)},
+    {sequence: jsPsych.randomization.sampleWithoutReplacement([...Array(16).keys()], 4)},
+    {sequence: jsPsych.randomization.sampleWithoutReplacement([...Array(16).keys()], 5)},
+    {sequence: jsPsych.randomization.sampleWithoutReplacement([...Array(16).keys()], 5)},
+    {sequence: jsPsych.randomization.sampleWithoutReplacement([...Array(16).keys()], 6)},
+    {sequence: jsPsych.randomization.sampleWithoutReplacement([...Array(16).keys()], 6)},
+    {sequence: jsPsych.randomization.sampleWithoutReplacement([...Array(16).keys()], 7)},
+    {sequence: jsPsych.randomization.sampleWithoutReplacement([...Array(16).keys()], 7)},
   ]
 }
